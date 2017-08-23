@@ -1,8 +1,8 @@
-#  NODE-TODO-APP 
+##  NODE-TODO-APP 
 
 This app has CURD functionality.
 
-## END POINTS OF THIS APPS:
+### END POINTS OF THIS APPS:
 
 > GET METHOD: 
 ```
